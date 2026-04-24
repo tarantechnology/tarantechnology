@@ -31,7 +31,6 @@ Tabl is a product for mechanical engineers. AI CAD generation describe a part in
 
 **🛡️ Georgia Tech Research Institute** — Software Development Engineer Intern. I built instrumentation in C++ and JavaScript to stress and profile simulation workloads—memory, CPU, timing—so teams could visualize performance.
 
-&
 ## 🛠 Tech stack
 
 <p align="left">
