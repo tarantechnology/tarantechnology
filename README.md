@@ -1,34 +1,36 @@
 # 👋 Hey, I'm Taran Puvvala
 
-CS @ **Georgia Tech** (B.S., May 2027 · GPA 3.73). I care about **ML systems**, **RAG and retrieval**, **real-time inference**, and **products that real users ship with**.
+CS @ **Georgia Tech** (B.S., May 2027). I care about **ML systems**, **Infrastructure**, **real-time inference**, and **products that real users ship with**.
 
-I turn research-heavy ideas into pipelines and apps: CUDA-backed models, event-driven backends, and frontends that stay fast under load.
+I like to build.
 
 <p align="left">
+  <a href="https://tarantech.xyz"><img src="https://img.shields.io/badge/tarantech.xyz-111827?style=flat-square&logo=safari&logoColor=white" alt="Personal website"/></a>
   <a href="https://www.linkedin.com/in/taran-puvvala"><img src="https://img.shields.io/badge/LinkedIn-taran--puvvala-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:tpuvvala@gatech.edu"><img src="https://img.shields.io/badge/Email-tpuvvala%40gatech.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/tarantechnology"><img src="https://img.shields.io/badge/GitHub-tarantechnology-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Georgia%20Tech-B.S.%20CS-003057?style=flat-square&logo=georgiatech&logoColor=white" alt="Georgia Tech"/>
-  <img src="https://img.shields.io/badge/U.S.-Citizen-1B4332?style=flat-square" alt="U.S. Citizen"/>
 </p>
 
 ## Current work
 
 **🧠 Georgia Tech CHART Lab — Lead Undergraduate Researcher**  
-CUDA-accelerated PyTorch inference with Transformers (BERT, Whisper) for real-time, domain-specific terminology in human–robot teaming. Fine-tuned multilingual models (Gemma 3, XLM-R, M2M100) on parallel scientific jargon—**~28% better cross-domain translation accuracy** and **~41% lower inference latency**. Built preprocessing and eval with domain tokenization and BLEU/chrF scoring.
+I work on the NLP team to allow professionals of disciplines to have real-time translations to technical jargon they may not understand. Fast inference paths so transformer models can flag specialized vocabulary in live collaboration settings, plus the surrounding preprocessing and evaluation stack so we can iterate on models and actually trust the numbers. A lot of it is multilingual—getting scientific and engineering jargon to line up across domains without the stack falling over on latency.
 
 **📐 Tabl — AI CAD generation** ($150k raised)  
-Containerized Text-to-CAD serving **500+ concurrent** generations on AWS (EC2/ECR). Multi-stage RAG over **15k+** CAD docs (**~65% lower token cost**). React / WebGL / Three.js frontend with Redis-backed state—used by **200+** mechanical engineers.
+Tabl is a product for mechanical engineers. AI CAD generation describe a part in natural language and get an STL you can work with.
 
 **🖥️ Kai — AI personal CRM & spotlight search**  
-Native desktop app (**Rust**, **Tauri**, **React**) with a global command palette for notes, tasks, and calendar. Dockerized service layer with unified routing, web search, and **local LLM** inference (**Ollama**); natural language → structured commands in TypeScript.
+(Still in Progress) Kai is a native desktop app built like a real OS utility: a global spotlight-style palette over notes, tasks, and calendar. Under the hood it’s Rust and Tauri on the client, a Dockerized service layer that routes commands to web search and tools, and local LLM inference so everyday phrasing turns into structured actions without everything living in the cloud.
 
 ## Elsewhere
 
-**💼 Snap** — Incoming Machine Learning Engineer Intern (Summer 2026)  
-**🚀 Pally (YC S25)** — Software Engineer Intern: global semantic search (**Qdrant**, **AWS S3 Vectors**, **Exa** / SERP) for LLM ranking, sub-2s retrieval; **Go** event pipeline (REST, **SQS**, **Lambda**) for Outlook data at **10k+** events/day; **PostgreSQL** pooling that cut query latency **~92%** under heavy concurrency.  
-**🛡️ Georgia Tech Research Institute** — SDE Intern: C++/JavaScript performance suite (gprof, psutil, chrono) for defense simulations; **Valgrind** in **GitLab CI** on **Kubernetes**—**80+** leaks caught, **~10%** memory reduction.
+**👻 Snap** — Incoming Machine Learning Engineer Intern (Summer 2026).
 
+**🚀 Pally (YC S25)** — Software Engineer Intern. Worked across full-stack, backend, infrastructure, and search - whatever my name was next to on the whiteboard
+**🛡️ Georgia Tech Research Institute** — Software Development Engineer Intern. I built instrumentation in C++ and JavaScript to stress and profile simulation workloads—memory, CPU, timing—so teams could visualize performance.
+
+&
 ## 🛠 Tech stack
 
 <p align="left">
