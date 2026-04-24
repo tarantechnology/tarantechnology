@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Taran Puvvala
 
-CS @ **Georgia Tech** (B.S., May 2027). I care about **ML systems**, **Infrastructure**, **real-time inference**, and **products that real users ship with**.
+CS @ **Georgia Tech**. I care about **ML systems**, **Infrastructure**, **real-time inference**, and **products that real users ship with**.
 
-I like to build.
+I also just like to build things.
 
 <p align="left">
   <a href="https://tarantech.xyz"><img src="https://img.shields.io/badge/tarantech.xyz-111827?style=flat-square&logo=safari&logoColor=white" alt="Personal website"/></a>
