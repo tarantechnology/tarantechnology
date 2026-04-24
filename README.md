@@ -28,6 +28,7 @@ Tabl is a product for mechanical engineers. AI CAD generation describe a part in
 **👻 Snap** — Incoming Machine Learning Engineer Intern (Summer 2026).
 
 **🚀 Pally (YC S25)** — Software Engineer Intern. Worked across full-stack, backend, infrastructure, and search - whatever my name was next to on the whiteboard
+
 **🛡️ Georgia Tech Research Institute** — Software Development Engineer Intern. I built instrumentation in C++ and JavaScript to stress and profile simulation workloads—memory, CPU, timing—so teams could visualize performance.
 
 &
