@@ -14,27 +14,27 @@ I also just like to build things.
 
 ## Current work
 
-**🧠 Georgia Tech AVA Lab — ML Researcher**
+**🧠 Georgia Tech AI Virtual Assistant (AVA) Lab: Machine Learning Researcher**
 I work on understanding and improving how LLMs reason. Right now, I’m building reasoning graphs from thousands of model traces to study the different logical paths models take through hard problems, alongside the inference infrastructure to run these experiments quickly across multiple GPUs.
 
-**📐 Tabl — AI CAD Generation** ($150k raised)
+**📐 Tabl: AI CAD Generation** ($150k raised)
 Built AI tools for mechanical engineers to turn natural language into usable CAD. I focused on the infrastructure around generation: parallel model evaluation, automated geometry testing, and an interactive 3D viewer used by engineers.
 
-**🖥️ Kai — AI Personal Assistant**
+**🖥️ Kai: AI Personal Assistant**
 Building an assistant that turns quick voice dumps into actions across my digital life. I can hold my iPhone Action Button, say whatever is on my mind, and Kai figures out whether it’s a task, reminder, note, or something else and handles it.
 
 ## Elsewhere
 
-**👻 Snap — Machine Learning Engineer Intern**
+**👻 Snap:— Machine Learning Engineer Intern**
 Worked on Spotlight recommendation models, from ranking and reward modeling to inference optimization. Shipped experiments that improved engagement while cutting ML serving and training costs.
 
-**🚀 Pally (YC S25) — Software Engineer Intern**
+**🚀 Pally (YC S25): Software Engineer Intern**
 Joined as the first intern during YC and worked across product, backend, ML, search, and infrastructure, basically whatever my name was next to on the whiteboard.
 
 **📐 Tabl — Co-Founder / Engineer**
 Helped build the product and ML infrastructure from the earliest prototypes through real engineers using it.
 
-**🛡️ Georgia Tech Research Institute — Software Development Engineer Intern**
+**🛡️ Georgia Tech Research Institute: Software Development Engineer Intern**
 Built C++ and JavaScript instrumentation to stress, profile, and visualize simulation workloads across memory, CPU, and timing.
 
 ## 🛠 Tech stack
