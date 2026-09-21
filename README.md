@@ -25,13 +25,13 @@ Building an assistant that turns quick voice dumps into actions across my digita
 
 ## Elsewhere
 
-**👻 Snap:— Machine Learning Engineer Intern**
+**👻 Snap: Machine Learning Engineer Intern**
 Worked on Spotlight recommendation models, from ranking and reward modeling to inference optimization. Shipped experiments that improved engagement while cutting ML serving and training costs.
 
 **🚀 Pally (YC S25): Software Engineer Intern**
 Joined as the first intern during YC and worked across product, backend, ML, search, and infrastructure, basically whatever my name was next to on the whiteboard.
 
-**📐 Tabl — Co-Founder / Engineer**
+**📐 Tabl: Co-Founder / Engineer**
 Helped build the product and ML infrastructure from the earliest prototypes through real engineers using it.
 
 **🛡️ Georgia Tech Research Institute: Software Development Engineer Intern**
