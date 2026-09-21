@@ -14,22 +14,28 @@ I also just like to build things.
 
 ## Current work
 
-**🧠 Georgia Tech CHART Lab — Lead Undergraduate Researcher**  
-I work on the NLP team to allow professionals of disciplines to have real-time translations to technical jargon they may not understand. Fast inference paths so transformer models can flag specialized vocabulary in live collaboration settings, plus the surrounding preprocessing and evaluation stack so we can iterate on models and actually trust the numbers. A lot of it is multilingual—getting scientific and engineering jargon to line up across domains without the stack falling over on latency.
+**🧠 Georgia Tech AVA Lab — ML Researcher**
+I work on understanding and improving how LLMs reason. Right now, I’m building reasoning graphs from thousands of model traces to study the different logical paths models take through hard problems, alongside the inference infrastructure to run these experiments quickly across multiple GPUs.
 
-**📐 Tabl — AI CAD generation** ($150k raised)  
-Tabl is a product for mechanical engineers. AI CAD generation describe a part in natural language and get an STL you can work with.
+**📐 Tabl — AI CAD Generation** ($150k raised)
+Built AI tools for mechanical engineers to turn natural language into usable CAD. I focused on the infrastructure around generation: parallel model evaluation, automated geometry testing, and an interactive 3D viewer used by engineers.
 
-**🖥️ Kai — AI personal CRM & spotlight search**  
-(Still in Progress) Kai is a native desktop app built like a real OS utility: a global spotlight-style palette over notes, tasks, and calendar. Under the hood it’s Rust and Tauri on the client, a Dockerized service layer that routes commands to web search and tools, and local LLM inference so everyday phrasing turns into structured actions without everything living in the cloud.
+**🖥️ Kai — AI Personal Assistant**
+Building an assistant that turns quick voice dumps into actions across my digital life. I can hold my iPhone Action Button, say whatever is on my mind, and Kai figures out whether it’s a task, reminder, note, or something else and handles it.
 
 ## Elsewhere
 
-**👻 Snap** — Incoming Machine Learning Engineer Intern (Summer 2026).
+**👻 Snap — Machine Learning Engineer Intern**
+Worked on Spotlight recommendation models, from ranking and reward modeling to inference optimization. Shipped experiments that improved engagement while cutting ML serving and training costs.
 
-**🚀 Pally (YC S25)** — Software Engineer Intern. Worked across full-stack, backend, infrastructure, and search - whatever my name was next to on the whiteboard
+**🚀 Pally (YC S25) — Software Engineer Intern**
+Joined as the first intern during YC and worked across product, backend, ML, search, and infrastructure, basically whatever my name was next to on the whiteboard.
 
-**🛡️ Georgia Tech Research Institute** — Software Development Engineer Intern. I built instrumentation in C++ and JavaScript to stress and profile simulation workloads—memory, CPU, timing—so teams could visualize performance.
+**📐 Tabl — Co-Founder / Engineer**
+Helped build the product and ML infrastructure from the earliest prototypes through real engineers using it.
+
+**🛡️ Georgia Tech Research Institute — Software Development Engineer Intern**
+Built C++ and JavaScript instrumentation to stress, profile, and visualize simulation workloads across memory, CPU, and timing.
 
 ## 🛠 Tech stack
 
